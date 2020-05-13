@@ -1,6 +1,7 @@
 {
   "scripts": {
     "test": "echo \"Test\"",
-    "build": "echo \"Build\""
+    "build": "echo \"Build\"",
+    "lint": "echo \"Lint\""
   }
 }
